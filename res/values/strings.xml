@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lịch hẹn</string>
+    <string name="action_today">Hôm nay</string>
+    <string name="action_day_view">Theo ngày</string>
+    <string name="action_three_day_view">Theo 3 ngày</string>
+    <string name="action_week_view">Theo tuần</string>
+</resources>
